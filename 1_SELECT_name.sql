@@ -100,6 +100,8 @@ SELECT name, REPLACE(capital,name,'')AS extension
  WHERE capital LIKE '%'+name+'%';
 
 
+-- Quiz
+
 
 
 
