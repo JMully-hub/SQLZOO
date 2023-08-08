@@ -1,5 +1,5 @@
 # SQLZOO
-Created as part of The Odin Project curriculum.
+Part of The Odin Project curriculum.
 
 <p dir="auto">Created as a place to store my answers for the <a href="https://www.theodinproject.com" rel="nofollow">The Odin Project</a> SQL Zoo Project</p>
 
